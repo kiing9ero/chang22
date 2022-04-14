@@ -1,6 +1,6 @@
-import 'package:final_project/mainpage.dart';
-import 'package:final_project/profile.dart';
-import 'package:final_project/search.dart';
+import 'package:chang_22_project/mainpage.dart';
+import 'package:chang_22_project/profile.dart';
+import 'package:chang_22_project/search.dart';
 import 'package:flutter/material.dart';
 
 void main() {
